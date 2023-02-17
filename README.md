@@ -1,5 +1,6 @@
+<h1 align="center">Javascript Capstone Project with Kanban Board
+</h1>
 <div align="center">
-  # Javascript Capstone Project with Kanban Board
   <img  src="logo link" alt="logo" width="1080"  height="auto" />
   <br/>
 
@@ -93,7 +94,7 @@ In order to run this project you need: git installed in your system
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/chelobotix/Retro-Watchers-Capstone.git
+  git clone https://github.com/.../....git
 ```
 
 ### Install
