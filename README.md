@@ -1,11 +1,10 @@
 # Javascript Capstone Project with Kanban Board
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/73704727/219734782-d4ff2c5f-a431-4894-b7f8-9f92f5b1bc65.png" alt="logo" width="1080"  height="auto" />
+  <img  src="logo link" alt="logo" width="1080"  height="auto" />
   <br/>
 
-  <h3><b>Javascrip!
-t Capstone Project</b></h3>
+  <h3><b>Javascript Capstone Project</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -33,11 +32,11 @@ t Capstone Project</b></h3>
 
 # 📖 Javascript Capstone Project <a name="about-project"></a>
 
-> Javascript Capstone Project is a website based on an external API. It uses [The Movie Db Api](https://developers.themoviedb.org/3/genres/get-movie-list) to get info about different characters, and [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) to store likes and comments from users.
+> Javascript Capstone Project is a website based on an external API. 
 
 ## Walkthrough Video <a  name="walkthrough-video"></a>
 
-[Check the video]([Video Presentation](https://drive.google.com/file/d/1AEpZPDU_spbRA04VjtqT2W8ktxicprvQ/view?usp=share_link))
+[Check the video]([Video Presentation](link))
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,7 +79,7 @@ t Capstone Project</b></h3>
 
 ## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
 
-[Visit The Live Demo]([Live Demo](https://chelobotix.github.io/Retro-Watchers-Capstone/dist/))
+[Visit The Live Demo]([Live Demo](link))
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -139,15 +138,6 @@ You can deploy this project using:
 
 👤 **Author1**
 
-: Marcelo Alarcon
-
-Bolivia 💓
-
-- GitHub: [@Marcelo Alarcon](https://github.com/chelobotix)
-- Twitter: [@Marcelo Alarcon](https://twitter.com/marcealarconb)
-
-👤 **Author2**
-
 : Jakaria Jishan
 
 Bangladesh 💓
@@ -198,6 +188,6 @@ We would like to thank our family, all the partners and Microverse platform.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/chelobotix/Retro-Watchers-Capstone/blob/develop/LICENSE) licensed.
+This project is [MIT](https://github.com/JakariaJishan/broiler-plate/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
