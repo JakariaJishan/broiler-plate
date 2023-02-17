@@ -1,6 +1,5 @@
-# Javascript Capstone Project with Kanban Board
-
 <div align="center">
+  # Javascript Capstone Project with Kanban Board
   <img  src="logo link" alt="logo" width="1080"  height="auto" />
   <br/>
 
